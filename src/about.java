@@ -6,7 +6,7 @@
 
 /**
  *
- * @author piyus
+ * @author piyush
  */
 public class about extends javax.swing.JFrame {
 
